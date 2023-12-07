@@ -1,0 +1,23 @@
+.Icon-container {
+    margin-left: auto;
+    margin-right: 5%;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.Icon-container-delete{
+    color: #A91919;
+}
+
+
+.Icon-SVG {
+    width: 2.5vh;
+    height: auto;
+}
+
+.Icon-container-delete:hover .Icon-SVG{
+    fill: #A91919;
+}

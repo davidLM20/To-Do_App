@@ -1,0 +1,35 @@
+.InputContainer {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 0.5vh 5% 0.5vh 5%;
+    margin-top: 1.5vh;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
+}
+
+.busqueda {
+    width: 90%;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    caret-color: #9B73CF;
+}
+
+.labelforsearch {
+    cursor: text;
+    padding: 0px 12px;
+}
+
+.searchIcon {
+    height: 100%;
+    margin-left: auto;
+    margin-right: 5%;
+    font-size: large;
+}
+  

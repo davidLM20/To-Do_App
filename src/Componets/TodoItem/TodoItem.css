@@ -1,0 +1,39 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 2vh;
+    height: 8vh;
+    width: 100%;
+}
+
+.TodoItem-p{
+    font-weight: 500;
+    color: #575757;
+}
+
+.TodoItem-p--complete{
+    font-weight: 300;
+    color: #878787;
+    text-decoration:  line-through;
+}
+
+.ui-checkbox{
+    margin-left: 5%;
+    margin-right: auto;
+    size: 5em;
+    font-size: 2rem;
+    cursor: pointer;
+    color: #CDCDCD;
+}
+
+.ui-checkbox--checked{
+    color: #E9CC82;
+    margin-left: 5%;
+    margin-right: auto;
+    size: 5em;
+    font-size: 2rem;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.buttomContent{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.createbutton{
+    justify-content: flex-end;
+    border: none;
+    border-radius: 15px;
+    background-color: #9B73CF;
+    color: #EDEDED;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    cursor: pointer;
+}
