@@ -4,9 +4,9 @@ Este repositorio contiene una aplicación simple de lista de tareas desarrollada
 Características
 ---------------
 
-*   **Creación de Tareas:** Agrega nuevas tareas a tu lista.
-*   **Marca como Completadas:** Marca las tareas como completadas con un simple clic.
-*   **Eliminación de Tareas:** Elimina las tareas que ya no necesitas.
+*   **Creación de Tareas**
+*   **Marca como Completadas**
+*   **Eliminación de Tareas** 
 *   **Interfaz Reactiva:** Utiliza conceptos fundamentales de React para mantener una interfaz de usuario interactiva y reactiva.
 
 Tecnologías Utilizadas
